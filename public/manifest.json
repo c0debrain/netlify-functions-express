@@ -1,6 +1,6 @@
 {
-  "short_name": "Netlify Express Example",
-  "name": "Express + Netlify Functions",
+  "short_name": "Serverless",
+  "name": "Serverless",
   "icons": [
     {
       "src": "favicon.ico",
