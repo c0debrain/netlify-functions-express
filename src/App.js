@@ -38,6 +38,9 @@ class App extends Component {
           <a className='link' href="/.netlify/functions/react-express-ssr">
             Example using React serverside rendering
           </a>
+          <a className='link' href="/.netlify/functions/vue-ssr">
+            Example using Vue serverside rendering
+          </a>
         </div>
       </div>
     )
