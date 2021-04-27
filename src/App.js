@@ -19,7 +19,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <GitHubCorner url={'https://github.com/c0debrain/netlify-functions-express'} />
         <header className="App-header">
 
           <div className="logo-wrapper">
