@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import netlifyLogo from './netlify-logo-black.svg'
+import expressLogo from './express.png'
 import './App.css'
 
 // const GitHubCorner = ({ url }) => {
@@ -19,11 +21,9 @@ class App extends Component {
       <div className="App">
         {/* <GitHubCorner url={'https://github.com/c0debrain/netlify-functions-express'} /> */}
         <header className="App-header">
-
           <div className="logo-wrapper">
-
           </div>
-          <h1 className="App-title"></h1>
+          <h1 className="App-title">How to use express.js with Netlify functions</h1>
         </header>
 
         <p className="App-intro">
